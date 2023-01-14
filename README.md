@@ -1,6 +1,4 @@
-#EXTM3U
-
-
+ #EXTM3U
 
 #EXTINF:-1 xui-id="93696" tvg-id="AMTVHDA" tvg-name="PE | América TV HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png" group-title="PERU",PE | América TV HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwScRls-53id3hyjfOqzRQ94
