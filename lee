@@ -1,8 +1,6 @@
- #EXTM3U
-
+#EXTM3U
 #EXTINF:-1 xui-id="93696" tvg-id="AMTVHDA" tvg-name="PE | América TV HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoBbg4Z_Ywbwr5U5BxjlujbAbxsH80lfKI-ZQ_aFXVVIg.png" group-title="PERU",PE | América TV HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwScRls-53id3hyjfOqzRQ94
-
 
 #EXTINF:-1 xui-id="93682" tvg-id="FRLTDA" tvg-name="PE | Latina HD" tvg-logo="http://jumangis.com:2082/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjNDuRyU9vPWp9JKpOyOdRkXErrLqPE9KTqbn8c7sRN5Q.png" group-title="PERU",PE | Latina HD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXQKzUSJtiPmVL3UbMyykug
@@ -10,7 +8,6 @@ http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwXQKzUSJtiPmVL3UbMyykug
 
 #EXTINF:-1 xui-id="93677" tvg-id="13C.cl" tvg-name="PE | ATV SD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF6_vFYoB3DypzG2AHPNL0oOVwpdZsCGtKN9lBQy3P03WyFnQv_atswCcQjXeNrAJI.png" group-title="PERU",PE | ATV SD
 http://jumangis.com:2082/play/1ipJaHX-KMSTYKuQN6kNwVGe5-1H88nd4ZzRuncMnJo
-
 
 
 #EXTINF:-1 xui-id="93702" tvg-id="PanamericanaTV.pe" tvg-name="PE | Panamericana HD" tvg-logo="http://jumangis.com:2082/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8UXqhv4WHjE9zl3njNV3iUtHqnnOHEU41DIk_C7w_WTPA.png" group-title="PERU",PE | Panamericana HD
